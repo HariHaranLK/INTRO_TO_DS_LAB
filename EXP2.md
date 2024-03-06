@@ -27,6 +27,12 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/0c8df060-08fc-4b1f-8538-bb1fe118f35d)
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/9e0a71e9-c65a-497a-8743-2914856c0d9f)
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/b06f6657-2796-4372-95e2-5b26b9b936c5)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/d101c2fa-cb1b-401f-b56a-b79c293929fe)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/025a17aa-aae2-4e40-b7ef-a0159acab8ab)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/f02de810-fc92-4dce-82d8-11a0c2ca05b7)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/673af1c6-12f9-4c5e-a6dd-65fcfa49439d)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/04574183-cce0-4292-adc9-65f753d924a5)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/88fab71f-6637-40a1-b020-751dc47a5c72)
 
 # RESULT
         <<INCLUDE YOUR RESULT HERE>>
