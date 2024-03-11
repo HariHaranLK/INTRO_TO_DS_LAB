@@ -33,6 +33,11 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/673af1c6-12f9-4c5e-a6dd-65fcfa49439d)
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/04574183-cce0-4292-adc9-65f753d924a5)
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/88fab71f-6637-40a1-b020-751dc47a5c72)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/bd519522-62f7-417c-8ec5-366a7b9a0d2d)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/43957225-e42c-4fe6-822e-2ac60940e9db)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/528b7ef2-14a8-4e23-a46a-f905b923157e)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/c3b02035-8487-447f-9e5e-1cd1686cf8ba)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/20ab0d92-403c-4467-a69c-ac0cace51c9c)
 
 # RESULT
         <<INCLUDE YOUR RESULT HERE>>
