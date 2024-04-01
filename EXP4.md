@@ -14,6 +14,13 @@ FEATURE SELECTION:
 Feature selection is to find the best set of features that allows one to build useful models. Selecting the best features helps the model to perform well. The feature selection techniques used are: 1.Filter Method 2.Wrapper Method 3.Embedded Method
 
 # CODING AND OUTPUT:
-   
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/ff973f3f-67ff-4c42-917c-b95895201dd9)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/7abe645b-d97f-431e-84dc-5ae51b7261d5)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/a84a2c22-806b-41e5-9b2a-ed2f8e1b2325)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/c954c953-2ccb-40bb-8e07-b187dc7004ef)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/46af60d3-d1bb-4c2c-9833-431587164019)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/c7a46337-7321-4a61-8dda-00bb38c420e8)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/778eb3b6-6249-4e53-b5b5-af47515a43c6)
+
 # RESULT:
    Thus the program to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is created executed and output is verified successfully.
