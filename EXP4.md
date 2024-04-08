@@ -23,6 +23,7 @@ Feature selection is to find the best set of features that allows one to build u
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/778eb3b6-6249-4e53-b5b5-af47515a43c6)
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/c59b114f-9061-4f88-b38b-7b20f8180293)
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/be8ec3e7-1490-4520-b6ae-6e00344ad551)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/26268351-1bbe-4321-bc3b-1c81ad94a7a8)
 
 # RESULT:
    Thus the program to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is created executed and output is verified successfully.
