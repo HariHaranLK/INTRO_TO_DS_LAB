@@ -16,7 +16,7 @@ STEP 3:Apply data visualization techniques to identify the patterns of the data.
 STEP 4:Apply the various data visualization tools wherever necessary.
 
 STEP 5:Include Necessary parameters in each functions.
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 # Coding and Output:
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/5462a2bb-fa13-4d1a-9baa-9a5b826785c5)
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/cdf74286-4c5f-435c-ad13-0fad74da53b1)
