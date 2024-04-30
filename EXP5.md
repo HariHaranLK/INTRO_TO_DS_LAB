@@ -35,6 +35,11 @@ STEP 5:Include Necessary parameters in each functions.
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/578b85fa-56c1-4a74-9a91-78f7d08645d2)
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/a16503ae-9ca6-477d-b700-de920e11510b)
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/a71147e0-2a75-4f8e-b62e-1124e5f968ad)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/72ba80c3-edc6-4c33-b0fd-80117ae0f225)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/a0de8e09-955b-47b2-a6a6-5e85b96d1c25)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/a8be8605-5796-47b3-a3ac-4c54bac99ff5)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/b074e2dd-4e90-4068-b919-e9d30cd12453)
+![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/de28d345-0808-449d-a2d9-b9975ee79149)
 
 # Result:
  Include your result here
