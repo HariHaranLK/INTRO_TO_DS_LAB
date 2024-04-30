@@ -42,4 +42,4 @@ STEP 5:Include Necessary parameters in each functions.
 ![image](https://github.com/HariHaranLK/INTRO_TO_DS_LAB/assets/132996089/de28d345-0808-449d-a2d9-b9975ee79149)
 
 # Result:
- Include your result here
+ Thus the Data visualization using Matplotlib is created and the output is verified successfully.
